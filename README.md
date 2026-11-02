@@ -12,7 +12,7 @@
 4. SDA = GPIO 21
 
 
-![Teks Alternatif](URL_atau_Path_Gambar)
+![Teks Alternatif]([URL_atau_Path_Gambar](https://github.com/frjatllah9/best-friend-esp32/blob/main/zch.png))
 
 
 | ALAT dan BAHAN |        Jumlah      | 
