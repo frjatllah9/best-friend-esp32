@@ -12,7 +12,7 @@
 4. SDA = GPIO 21
 
 
-![Teks Alternatif]([zch.png])
+![Teks Alternatif](zch.png)
 
 
 | ALAT dan BAHAN |        Jumlah      | 
