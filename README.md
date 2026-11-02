@@ -10,6 +10,13 @@
 | Wire Jumper    |         4          |         
 | Kabel data     |         1          |
 
+## Library
+
+| Nama Repositori   | 
+| ----------------- | 
+|Adafruit_GFX.h     | 
+|Adafruit_SH110X.h  | 
+
 
 ## Wiring
 ### Oled
