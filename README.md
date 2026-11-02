@@ -2,6 +2,12 @@
 1. ESP32
 2. Oled 1.3inch
 3. Wire Jumper 4
+| ALAT dan BAHAN |        Jumlah      | 
+| -------------- | ------------------ | 
+| Bread Board    |         1          | 
+| ESP32          |         1          | 
+| Wire Jumper    |         4          |         
+| Kabel data     |         1          |
 
 
 ## Wiring
@@ -15,9 +21,3 @@
 ![Teks Alternatif](zch.png)
 
 
-| ALAT dan BAHAN |        Jumlah      | 
-| -------------- | ------------------ | 
-| Bread Board    |         1          | 
-| ESP32          |         1          | 
-| Wire Jumper    |         4          |         
-| Kabel data     |         1          |
